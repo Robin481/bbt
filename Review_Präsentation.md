@@ -39,6 +39,13 @@ Man kann als mehr oder weniger tolle Lösung den HTML-Tag class="stretch" verwen
 
 Bsp:  \<image class="stretch" src='/assets/review35/changeRubyVersion.png'></image>
 
+Neue Lösung:
+
+- data-background="/assets/simu3.png"
+- data-background-size="contain"
+
+Auf die Tags der Slides.
+
 **IntelliJ**:
 
 Um bei Screenshots der Zeilenzahl eine andere Farbe zu geben: "Settings::Editor->Color Scheme->General::Code->Line number".
